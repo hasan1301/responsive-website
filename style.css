@@ -1,0 +1,43 @@
+.nav-img{
+    height: 112px;
+    height: 50px;
+}
+.clearfix{
+    clear: both;
+}
+.top{
+    background-color: #fffbf0;
+    margin: auto;
+    height: 600px;
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin: 5%;
+    padding: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.btn{
+    background-color: #a0b941;
+    text-decoration:none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    color: white;
+    display: inline-block;   
+}
+i{
+    height: 25px;
+    width: 25px;
+    margin-right: 5px;
+    color: white;
+    display: inline-block;
+}
+i img{
+    width: 100%;
+    
+}
+.name{
+    color: #fabe4c;
+}
